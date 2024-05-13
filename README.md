@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/GustavoCoelho1/GustavoCoelho1/main/greetings.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Hey folks! This is my space to share a bit of my experiences. Today i’m a <b>full stack junior-level developer</b> completely passionate about TypeScript 🩵 and development with Next.js. Feel free to explore and see if anything catches your eye :)</p>&nbsp;
+<p align="center">Hey folks! This is my space to share a bit of my experiences. Today i’m a <b>full stack web developer</b> completely passionate about TypeScript 🩵 and development with Next.js. Feel free to explore and see if anything catches your eye :)</p>&nbsp;
  
  &nbsp;
  &nbsp;
